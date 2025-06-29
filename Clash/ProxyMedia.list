@@ -1,21 +1,59 @@
 # 内容：国外媒体列表
-# 更新：2024-01-23 22:08:30
-# 数量：368条
+# 更新：2025-04-12 14:50:07
+# 数量：406条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
 
+# AI
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,openai
+DOMAIN,ai.google.dev
+DOMAIN,api.githubcopilot.com
+DOMAIN,api.groq.com
+DOMAIN,api.together.xyz
+DOMAIN,bard.google.com
+DOMAIN,console.groq.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,sydney.bing.com
+DOMAIN-SUFFIX,ai.azure.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,sora.com
+
 # AbemaTV
 USER-AGENT,AbemaTV*
 DOMAIN-KEYWORD,abematv.akamaized.net
-DOMAIN,api-abematv.bucketeer.jp
-DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
-DOMAIN-SUFFIX,hayabusa.media
 
 # All4
 USER-AGENT,All4*
@@ -81,12 +119,6 @@ DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
-
-# B_Global
-USER-AGENT,app/bstar*
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,bstarstatic.com
-DOMAIN,pic-bstarstatic.akamaized.net
 
 # DAZN
 USER-AGENT,DAZN*
@@ -208,6 +240,9 @@ USER-AGENT,ITV_Player*
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
+
+# Iwara
+DOMAIN-SUFFIX,iwara.tv
 
 # JOOX
 USER-AGENT,JOOX*
@@ -344,6 +379,7 @@ DOMAIN-SUFFIX,olevodtv.com
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
